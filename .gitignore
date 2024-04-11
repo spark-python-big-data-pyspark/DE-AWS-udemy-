@@ -1,5 +1,6 @@
 de_env
 .ipynb_checkpoints
 patricia_accessKeys.csv
-kafka/
+kafka
+
 kafka_2.13-3.7.0
